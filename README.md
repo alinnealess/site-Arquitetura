@@ -17,9 +17,9 @@ Cada card possui uma imagem, título, descrição breve e um botão para mais de
 - Rodapé: Exibe informações de direitos autorais do Studio Trevo.
 
 ## Funcionalidades:
--Responsividade: Utiliza Bootstrap para garantir que o site seja acessível em dispositivos de diferentes tamanhos.
--Navegação Intuitiva: Navbar adaptativa que se transforma em um menu hamburger em telas menores.
--Interatividade: O carousel e os cards dinamizam a experiência do usuário.
+- Responsividade: Utiliza Bootstrap para garantir que o site seja acessível em dispositivos de diferentes tamanhos.
+- Navegação Intuitiva: Navbar adaptativa que se transforma em um menu hamburger em telas menores.
+- Interatividade: O carousel e os cards dinamizam a experiência do usuário.
 ## Propósitos Educativos:
 - Estudo de Frameworks CSS: O projeto serve como prática no uso de Bootstrap para design responsivo.
 - Aplicação de Técnicas de Layout: Emprega CSS para aprimorar visualmente a apresentação do conteúdo.
